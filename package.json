@@ -3,14 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://nithyasarathim.github.io/QUIZ-APP",
-
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.3",
     "react-scripts": "5.0.1"
-    
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -37,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
