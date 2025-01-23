@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/QUIZ-APP/static/css/main.ac095be8.css",
-    "main.js": "/QUIZ-APP/static/js/main.595b75eb.js",
-    "static/js/156.db8aa237.chunk.js": "/QUIZ-APP/static/js/156.db8aa237.chunk.js",
-    "index.html": "/QUIZ-APP/index.html",
-    "main.ac095be8.css.map": "/QUIZ-APP/static/css/main.ac095be8.css.map",
-    "main.595b75eb.js.map": "/QUIZ-APP/static/js/main.595b75eb.js.map",
-    "156.db8aa237.chunk.js.map": "/QUIZ-APP/static/js/156.db8aa237.chunk.js.map"
+    "main.css": "/QR-CODE-GENERATOR/static/css/main.f7154b03.css",
+    "main.js": "/QR-CODE-GENERATOR/static/js/main.8a5ff596.js",
+    "static/js/156.db8aa237.chunk.js": "/QR-CODE-GENERATOR/static/js/156.db8aa237.chunk.js",
+    "static/media/qr.png": "/QR-CODE-GENERATOR/static/media/qr.1af123c537f60e0772a3.png",
+    "index.html": "/QR-CODE-GENERATOR/index.html",
+    "main.f7154b03.css.map": "/QR-CODE-GENERATOR/static/css/main.f7154b03.css.map",
+    "main.8a5ff596.js.map": "/QR-CODE-GENERATOR/static/js/main.8a5ff596.js.map",
+    "156.db8aa237.chunk.js.map": "/QR-CODE-GENERATOR/static/js/156.db8aa237.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac095be8.css",
-    "static/js/main.595b75eb.js"
+    "static/css/main.f7154b03.css",
+    "static/js/main.8a5ff596.js"
   ]
 }
