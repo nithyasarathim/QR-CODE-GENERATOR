@@ -1,10 +1,13 @@
 import React from 'react'
-import Count from './Counter';
+import Q from './QR';
+import './App.css';
+
+
 
 const App = () => {
   return (
     <div>
-        <Count />
+      <Q/>
     </div>
   )
 }
