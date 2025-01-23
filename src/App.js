@@ -1,13 +1,12 @@
 import React from 'react'
 import Q from './QR';
-import './App.css';
 
 
 
 const App = () => {
   return (
     <div>
-      <Q/>
+      <Q></Q>
     </div>
   )
 }
